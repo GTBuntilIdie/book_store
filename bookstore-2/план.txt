@@ -1,0 +1,6 @@
+1. Книга, Автор, Жанр, Пользователь (для Spring Security) - модель, сущности (Hibernate, JPA - Java Persistence API, Repository, Liquibase(констрейнты))
+2. API (контроллеры, OpenAPI, DTO, валидация, маппинг, Spring Security)
+3. Сервисы (запросы к БД через репозитории (проекции, Criteria API), валидация со стороны БД, генерация данных, проверка работоспособности (валидации входящих данных, security))
+4. Тесты (на сервисы, контроллеры, мокито, интеграционные, юнит)
+5. Docker (БД в докере, docker-compose, testcontainers)
+6. Stream API, Коллекции (TreeMap/TreeSet, красно-чёрные деревья), GitHub (Readme, Wiki, документация, удаление репозиториев, ветки, Git, ...)
